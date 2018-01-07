@@ -7,7 +7,7 @@ library(randomForest)                 #for random forest
 library(evtree)                       #for classification trees
 library(e1071)                        #for Naive bayesian model
 
-setwd("D:/Study/OneDrive - The University of Texas at Dallas/Winter break 1/titanic")
+setwd("") ##add the directory with the files inside the double quotes
 train <- read.csv('train.csv',stringsAsFactors = F,na.strings=c(""))
 test <- read.csv('test.csv',stringsAsFactors = F, na.strings=c(""))
 head(train)
