@@ -1,2 +1,2 @@
 # titanic
-Titanic Dataset Kaggle competition. Visualization and 
+Titanic Dataset Kaggle competition. Basic Visualization and machine learning.
